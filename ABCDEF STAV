@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABCDEF STAV s.r.o.</title>
+    <link rel="stylesheet" href="ukol.7.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="obrazek.png" alt="">
+        </div>
+    </header>
+
+    <main class="container">
+        <section>
+            <h2>Služby</h2>
+            <ul>
+                <li>Stavby na klíč</li>
+                <li>Komplexní služby: od návrhu po realizaci</li>
+                <li>Kvalitní materiály: Používáme pouze prověřené materiály od renomovaných výrobců</li>
+                <li>Firma má certifikát společnosti Caparol Czechia s.r.o.</li>
+                <li>Individuální přístup: Každý projekt je pro nás jedinečný</li>
+                <li>Záruka kvality: Na veškeré naše práce poskytujeme záruku</li>
+                <li>Zpracujeme projekt na získání dotací – energie z obnovitelných zdrojů (kotle na peletky, fotovoltaika, tepelná čerpadla)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Stavby</h2>
+            <ul>
+                <li>Příprava pro stavbu</li>
+                <li>Hrubá stavba, zdivo, jádra, klasik a dekorativní omítky, podlahové topení</li>
+                <li>Pokládky zámkové dlažby</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Rekonstrukce historických budov</h2>
+            <ul>
+                <li>Rekonstrukce fasád</li>
+                <li>Oprava nebo výměna omítek, štuků, soch a dalších prvků fasády</li>
+                <li>Ochrana před vlhkem a plísněmi</li>
+                <li>K rekonstrukci fasád zpracujeme individuální návrh na zvýšení energetické účinnosti budovy</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Kontakty</h2>
+            <ul class="contacts">
+                <li>Email: <a href="mailto:info@abcdefstav.cz">info@abcdefstav.cz</a></li>
+                <li>Telefon: <a href="tel:+420123456789">+420 123 456 789</a></li>
+                <li>Web: <a href="http://www.abcdefstav.cz" target="_blank">www.abcdefstav.cz</a></li>
+                <li>Facebook: <a href="http://facebook.com/abcdefstav" target="_blank">facebook.com/abcdefstav</a></li>
+                <li>Instagram: <a href="http://instagram.com/abcdefstav" target="_blank">instagram.com/abcdefstav</a></li>
+                <li>Bankovní spojení: 123456789/0100</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 ABCDEF STAV s.r.o. Všechna práva vyhrazena.</p>
+        </div>
+    </footer>
+</body>
+</html>
